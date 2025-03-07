@@ -1,2 +1,2 @@
 # VehiclePractice
-An attempt to reduce poly count in models, and add some basic functionality to a vehicle.
+An attempt to reduce poly count in vehicle models.
