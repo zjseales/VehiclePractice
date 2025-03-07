@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\zac\\documents\\vehiclepractice\\practiceproject\\intermediate\\build\\win64\\unrealeditor\\inc\\practiceproject\\uht\\practiceprojectsportscar.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\zac\\documents\\vehiclepractice\\practiceproject\\intermediate\\build\\win64\\x64\\practiceprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\zac\\documents\\vehiclepractice\\practiceproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\practiceproject\\definitions.practiceproject.h",
+            "c:\\users\\zac\\documents\\vehiclepractice\\practiceproject\\source\\practiceproject\\practiceprojectsportscar.h",
+            "c:\\users\\zac\\documents\\vehiclepractice\\practiceproject\\source\\practiceproject\\practiceprojectpawn.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\plugins\\experimental\\chaosvehiclesplugin\\source\\chaosvehicles\\public\\wheeledvehiclepawn.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\plugins\\experimental\\chaosvehiclesplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\chaosvehicles\\uht\\wheeledvehiclepawn.generated.h",
+            "c:\\users\\zac\\documents\\vehiclepractice\\practiceproject\\intermediate\\build\\win64\\unrealeditor\\inc\\practiceproject\\uht\\practiceprojectpawn.generated.h",
+            "c:\\users\\zac\\documents\\vehiclepractice\\practiceproject\\intermediate\\build\\win64\\unrealeditor\\inc\\practiceproject\\uht\\practiceprojectsportscar.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

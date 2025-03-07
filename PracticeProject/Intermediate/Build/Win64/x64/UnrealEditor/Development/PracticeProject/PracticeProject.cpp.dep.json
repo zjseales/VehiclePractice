@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\zac\\documents\\vehiclepractice\\practiceproject\\source\\practiceproject\\practiceproject.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\zac\\documents\\vehiclepractice\\practiceproject\\intermediate\\build\\win64\\x64\\practiceprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\zac\\documents\\vehiclepractice\\practiceproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\practiceproject\\definitions.practiceproject.h",
+            "c:\\users\\zac\\documents\\vehiclepractice\\practiceproject\\source\\practiceproject\\practiceproject.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

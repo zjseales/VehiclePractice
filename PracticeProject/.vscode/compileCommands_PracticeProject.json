@@ -1,0 +1,218 @@
+[
+	{
+		"file": "C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\Source\\PracticeProject\\PracticeProject.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\.vscode\\compileCommands_PracticeProject\\PracticeProject.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\Source\\PracticeProject\\PracticeProject.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\.vscode\\compileCommands_PracticeProject\\PracticeProject.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\Source\\PracticeProject\\PracticeProject.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\.vscode\\compileCommands_PracticeProject\\PracticeProject.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\Source\\PracticeProject\\PracticeProjectGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\.vscode\\compileCommands_PracticeProject\\PracticeProject.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\Source\\PracticeProject\\PracticeProjectGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\.vscode\\compileCommands_PracticeProject\\PracticeProject.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\Source\\PracticeProject\\PracticeProjectOffroadCar.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\.vscode\\compileCommands_PracticeProject\\PracticeProject.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\Source\\PracticeProject\\PracticeProjectOffroadCar.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\.vscode\\compileCommands_PracticeProject\\PracticeProject.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\Source\\PracticeProject\\PracticeProjectOffroadWheelFront.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\.vscode\\compileCommands_PracticeProject\\PracticeProject.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\Source\\PracticeProject\\PracticeProjectOffroadWheelFront.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\.vscode\\compileCommands_PracticeProject\\PracticeProject.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\Source\\PracticeProject\\PracticeProjectOffroadWheelRear.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\.vscode\\compileCommands_PracticeProject\\PracticeProject.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\Source\\PracticeProject\\PracticeProjectOffroadWheelRear.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\.vscode\\compileCommands_PracticeProject\\PracticeProject.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\Source\\PracticeProject\\PracticeProjectPawn.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\.vscode\\compileCommands_PracticeProject\\PracticeProject.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\Source\\PracticeProject\\PracticeProjectPawn.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\.vscode\\compileCommands_PracticeProject\\PracticeProject.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\Source\\PracticeProject\\PracticeProjectPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\.vscode\\compileCommands_PracticeProject\\PracticeProject.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\Source\\PracticeProject\\PracticeProjectPlayerController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\.vscode\\compileCommands_PracticeProject\\PracticeProject.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\Source\\PracticeProject\\PracticeProjectSportsCar.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\.vscode\\compileCommands_PracticeProject\\PracticeProject.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\Source\\PracticeProject\\PracticeProjectSportsCar.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\.vscode\\compileCommands_PracticeProject\\PracticeProject.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\Source\\PracticeProject\\PracticeProjectSportsWheelFront.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\.vscode\\compileCommands_PracticeProject\\PracticeProject.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\Source\\PracticeProject\\PracticeProjectSportsWheelFront.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\.vscode\\compileCommands_PracticeProject\\PracticeProject.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\Source\\PracticeProject\\PracticeProjectSportsWheelRear.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\.vscode\\compileCommands_PracticeProject\\PracticeProject.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\Source\\PracticeProject\\PracticeProjectSportsWheelRear.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\.vscode\\compileCommands_PracticeProject\\PracticeProject.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\Source\\PracticeProject\\PracticeProjectUI.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\.vscode\\compileCommands_PracticeProject\\PracticeProject.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\Source\\PracticeProject\\PracticeProjectUI.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\.vscode\\compileCommands_PracticeProject\\PracticeProject.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\Source\\PracticeProject\\PracticeProjectWheelFront.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\.vscode\\compileCommands_PracticeProject\\PracticeProject.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\Source\\PracticeProject\\PracticeProjectWheelFront.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\.vscode\\compileCommands_PracticeProject\\PracticeProject.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\Source\\PracticeProject\\PracticeProjectWheelRear.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\.vscode\\compileCommands_PracticeProject\\PracticeProject.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\Source\\PracticeProject\\PracticeProjectWheelRear.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zac\\Documents\\VehiclePractice\\PracticeProject\\.vscode\\compileCommands_PracticeProject\\PracticeProject.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	}
+]
