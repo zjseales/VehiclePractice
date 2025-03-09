@@ -20,5 +20,7 @@ An attempt to reduce poly count in a vehicle scene using Unreal Engine "Level Of
 - Look into HLOD groups/layers to optimize poly count of the scene.
 
 ✓ Try duplicate and convert to low poly assets, instead of lowering quality during runtime (Unreal already does this)
+
 ✓ Set up player and game mode for winter scene. (Taken from Unreal Asset Library).
+
 ✓ Ensure that only objects seen by camera are being rendered. (Unreal does this too)
