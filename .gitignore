@@ -1,6 +1,9 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+# ignore all assets to save time and repo memory.
+**/*.uasset
+
 # Compiled Object files
 *.slo
 *.lo
