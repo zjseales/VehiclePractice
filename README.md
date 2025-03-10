@@ -20,7 +20,11 @@ An attempt to reduce poly count in a vehicle scene using Unreal Engine "Level Of
 - Failed to set a custom LOD to a Static Mesh, at runtime. (I'm sure it's possible but, again, outside of current skillset.)
 
 - Applied multiple HLOD's to a complex scene. Triangle count reduced to 23% but this made computation very slow, the fps lowered.
-Seems the best solution is to edit the meshes before runtime. 
+Seems the best solution is to edit the meshes before runtime.
+
+- Created a much simpler project.
+
+- Tested defeaturing functions.
 
 
 ## Simple Plan For Optimizing A Scene.
