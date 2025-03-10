@@ -35,4 +35,3 @@ Seems the best solution is to edit the meshes before runtime.
 ✓ Set up player and game mode for winter scene. (Taken from Unreal Asset Library).
 
 ✓ Ensure that only objects seen by camera are being rendered. (Unreal does this too)
->>>>>>> origin/main
