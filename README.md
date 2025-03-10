@@ -17,7 +17,7 @@ An attempt to reduce poly count in a vehicle scene using Unreal Engine "Level Of
 (I think this would be the optimal solution but it is currently difficult to do in Unreal, and outside of my current skillset).
 
 11/03
-- Currently attempting new solution to set a custom LOD.
+- Failed to set a custom LOD to a Static Mesh, at runtime. (I'm sure it's possible but, again, outside of current skillset.)
 
 
 ## Simple Plan For Optimizing A Scene.
