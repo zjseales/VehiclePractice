@@ -4,9 +4,6 @@
 # ignore all assets to save time and repo memory.
 **/*.uasset
 
-# ignore maps
-**/*.umap
-
 # Compiled Object files
 *.slo
 *.lo
