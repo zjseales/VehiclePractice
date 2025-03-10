@@ -12,6 +12,13 @@ An attempt to reduce poly count in a vehicle scene using Unreal Engine "Level Of
       
 - Wrote out basic plan (below).
 
+10/03
+- Tried (and failed) to convert static mesh to dynamic mesh, to alter more detailed properties, and convert back to static mesh.
+(I think this would be the optimal solution but it is currently difficult to do in Unreal, and outside of my current skillset).
+
+11/03
+- Currently attempting new solution to set a custom LOD.
+
 
 ## Simple Plan For Optimizing A Scene.
 - Reference LOD (Level Of Detail) settings - from a script - for a single asset.
