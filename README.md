@@ -19,14 +19,16 @@ An attempt to reduce poly count in a vehicle scene using Unreal Engine "Level Of
 11/03
 - Failed to set a custom LOD to a Static Mesh, at runtime. (I'm sure it's possible but, again, outside of current skillset.)
 
-- New plan is to optimize the scene as much as possible.
+- Applied multiple HLOD's to a complex scene. Triangle count reduced to 23% but this made computation very slow, the fps lowered.
+Seems the best solution is to edit the meshes before runtime. 
 
 
 ## Simple Plan For Optimizing A Scene.
 - Reference LOD (Level Of Detail) settings - from a script - for a single asset.
 - Make number of polygons adjustable with a button.
 - Write script to lower polygons for all assets in a folder.
-- Look into HLOD groups/layers to optimize poly count of the scene.
+  
+✓ Look into HLOD groups/layers to optimize poly count of the scene.
 
 ✓ Try duplicate and convert to low poly assets, instead of lowering quality during runtime (Unreal already does this)
 
