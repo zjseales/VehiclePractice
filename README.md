@@ -26,6 +26,8 @@ Seems the best solution is to edit the meshes before runtime.
 
 - Tested defeaturing functions.
 
+12/03
+- Made Dynamic Mesh blueprint which is built from an existing static mesh copy, and then simplified.
 
 ## Simple Plan For Optimizing A Scene.
 - Reference LOD (Level Of Detail) settings - from a script - for a single asset.
