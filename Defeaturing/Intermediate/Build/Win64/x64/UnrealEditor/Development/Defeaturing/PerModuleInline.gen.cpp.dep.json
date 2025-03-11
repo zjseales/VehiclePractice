@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\zac\\documents\\vehiclepractice\\defeaturing\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\defeaturing\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\zac\\documents\\vehiclepractice\\defeaturing\\intermediate\\build\\win64\\x64\\defeaturingeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\zac\\documents\\vehiclepractice\\defeaturing\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\defeaturing\\definitions.defeaturing.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

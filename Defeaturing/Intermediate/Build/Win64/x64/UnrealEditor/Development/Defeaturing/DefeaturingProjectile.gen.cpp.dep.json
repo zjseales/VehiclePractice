@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\zac\\documents\\vehiclepractice\\defeaturing\\intermediate\\build\\win64\\unrealeditor\\inc\\defeaturing\\uht\\defeaturingprojectile.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\zac\\documents\\vehiclepractice\\defeaturing\\intermediate\\build\\win64\\x64\\defeaturingeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\zac\\documents\\vehiclepractice\\defeaturing\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\defeaturing\\definitions.defeaturing.h",
+            "c:\\users\\zac\\documents\\vehiclepractice\\defeaturing\\source\\defeaturing\\defeaturingprojectile.h",
+            "c:\\users\\zac\\documents\\vehiclepractice\\defeaturing\\intermediate\\build\\win64\\unrealeditor\\inc\\defeaturing\\uht\\defeaturingprojectile.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

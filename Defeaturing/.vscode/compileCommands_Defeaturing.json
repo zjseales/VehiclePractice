@@ -1,0 +1,106 @@
+[
+	{
+		"file": "C:\\Users\\Zac\\Documents\\VehiclePractice\\Defeaturing\\Source\\Defeaturing\\Defeaturing.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zac\\Documents\\VehiclePractice\\Defeaturing\\.vscode\\compileCommands_Defeaturing\\Defeaturing.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zac\\Documents\\VehiclePractice\\Defeaturing\\Source\\Defeaturing\\Defeaturing.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zac\\Documents\\VehiclePractice\\Defeaturing\\.vscode\\compileCommands_Defeaturing\\Defeaturing.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zac\\Documents\\VehiclePractice\\Defeaturing\\Source\\Defeaturing\\Defeaturing.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zac\\Documents\\VehiclePractice\\Defeaturing\\.vscode\\compileCommands_Defeaturing\\Defeaturing.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zac\\Documents\\VehiclePractice\\Defeaturing\\Source\\Defeaturing\\DefeaturingCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zac\\Documents\\VehiclePractice\\Defeaturing\\.vscode\\compileCommands_Defeaturing\\Defeaturing.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zac\\Documents\\VehiclePractice\\Defeaturing\\Source\\Defeaturing\\DefeaturingCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zac\\Documents\\VehiclePractice\\Defeaturing\\.vscode\\compileCommands_Defeaturing\\Defeaturing.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zac\\Documents\\VehiclePractice\\Defeaturing\\Source\\Defeaturing\\DefeaturingGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zac\\Documents\\VehiclePractice\\Defeaturing\\.vscode\\compileCommands_Defeaturing\\Defeaturing.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zac\\Documents\\VehiclePractice\\Defeaturing\\Source\\Defeaturing\\DefeaturingGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zac\\Documents\\VehiclePractice\\Defeaturing\\.vscode\\compileCommands_Defeaturing\\Defeaturing.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zac\\Documents\\VehiclePractice\\Defeaturing\\Source\\Defeaturing\\DefeaturingPickUpComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zac\\Documents\\VehiclePractice\\Defeaturing\\.vscode\\compileCommands_Defeaturing\\Defeaturing.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zac\\Documents\\VehiclePractice\\Defeaturing\\Source\\Defeaturing\\DefeaturingPickUpComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zac\\Documents\\VehiclePractice\\Defeaturing\\.vscode\\compileCommands_Defeaturing\\Defeaturing.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zac\\Documents\\VehiclePractice\\Defeaturing\\Source\\Defeaturing\\DefeaturingProjectile.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zac\\Documents\\VehiclePractice\\Defeaturing\\.vscode\\compileCommands_Defeaturing\\Defeaturing.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zac\\Documents\\VehiclePractice\\Defeaturing\\Source\\Defeaturing\\DefeaturingProjectile.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zac\\Documents\\VehiclePractice\\Defeaturing\\.vscode\\compileCommands_Defeaturing\\Defeaturing.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zac\\Documents\\VehiclePractice\\Defeaturing\\Source\\Defeaturing\\DefeaturingWeaponComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zac\\Documents\\VehiclePractice\\Defeaturing\\.vscode\\compileCommands_Defeaturing\\Defeaturing.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zac\\Documents\\VehiclePractice\\Defeaturing\\Source\\Defeaturing\\DefeaturingWeaponComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zac\\Documents\\VehiclePractice\\Defeaturing\\.vscode\\compileCommands_Defeaturing\\Defeaturing.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	}
+]

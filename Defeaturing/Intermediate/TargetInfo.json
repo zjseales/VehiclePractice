@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Defeaturing",
+			"Path": "..\\Source\\Defeaturing.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DefeaturingEditor",
+			"Path": "..\\Source\\DefeaturingEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
