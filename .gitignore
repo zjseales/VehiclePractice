@@ -1,8 +1,9 @@
 # Visual Studio 2015 user specific files
 .vs/
 
-# ignore all assets to save time and repo memory.
+# ignore all assets and maps to save time and repo memory.
 **/*.uasset
+**/*.umap
 
 # Compiled Object files
 *.slo
@@ -51,6 +52,10 @@ SourceArt/**/*.tga
 # Binary Files
 Binaries/*
 Plugins/**/Binaries/*
+**/*.bin
+
+# program database file (binary file containing debugging info)
+**/*.pdb
 
 # Builds
 Build/*
